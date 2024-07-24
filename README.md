@@ -1,4 +1,4 @@
 # crud-dapper-challenges
-Desenvolvimento de desafios em C# com Dapper e SQLServer
+Some challenges to develop skills in .NET/C# using Dapper and SQLServer.
 
-Projeto de blog com CRUD, alguns relatórios desenvolvidos diretamente pelo Dapper e SQL Commands. 
+Blog project, containing a CRUD and some basic/advanced reports with Dapper and SQL Commands. 
